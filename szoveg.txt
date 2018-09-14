@@ -2,3 +2,4 @@
 Első sor mi a picsa
 Második sor
 Harmadik sor
+elso gyakorlás
