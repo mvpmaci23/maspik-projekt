@@ -37,13 +37,13 @@ print $a+$b+$c;
 // kivonás
 //-------------------------------
 
-$x=35;
-$y=19;
-$z=37;
+$x=15;
+$y=59;
+$z=370;
 
-print "<br><br>".$x-$y;
+print "<br><br>".$z-$y-$x;
 
-print "Konfiktus lesz...."
+
 
 
 
