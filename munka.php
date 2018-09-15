@@ -46,6 +46,15 @@ print "Konfiktus lesz...."
 
 
 
+// osztás
+//-------------------------------
+ 
+ $egyik=25;
+ $masik=5;
+
+ print ($kicsi*$nagy)."<br><br>";
+
+
 
 // szorzás
 //-------------------------------
@@ -53,7 +62,9 @@ print "Konfiktus lesz...."
 $kicsi=3;
 $nagy=23;
 
-print ($kicsi*$nagy)."<br><br>";
+ print ($egyik/$masik)."<br><br>";
+
+
 
 
 
