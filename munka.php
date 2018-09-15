@@ -38,16 +38,33 @@ print $a+$b+$c+$d;
 // kivonás
 //-------------------------------
 
-$x=35;
-$y=19;
+$x=15;
+$y=59;
+$z=370;
 
-print "<br><br>".$x-$y;
-
-print "Konfiktus lesz...."
-
+print "<br><br>".$z-$y-$x."<br><br>";
 
 
 
+
+
+// osztás
+//-------------------------------
+ 
+ $egyik=25;
+ $masik=5;
+
+ print ($kicsi*$nagy)."<br><br>";
+
+
+
+// szorzás
+//-------------------------------
+
+$kicsi=3;
+$nagy=23;
+
+ print ($egyik/$masik)."<br><br>";
 
 
 
