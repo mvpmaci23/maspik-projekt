@@ -47,8 +47,13 @@ print "Konfiktus lesz...."
 
 
 
+// szorzás
+//-------------------------------
 
+$kicsi=3;
+$nagy=23;
 
+print ($kicsi*$nagy)."<br><br>";
 
 
 
