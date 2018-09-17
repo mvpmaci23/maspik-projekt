@@ -24,3 +24,7 @@ $b=5;
 echo $a+$b;
 
 ```
+```javascript
+var p=23;
+alert("hahaha");
+```
