@@ -17,6 +17,8 @@ Webtanár: http://webtanar.hu
 
 Ebben a sorban beillisztett `<b>kódkészlet</b>`van.
 
+
+###PHP:
 ```php
 $a=11;
 $b=5;
@@ -24,6 +26,7 @@ $b=5;
 echo $a+$b;
 
 ```
+###Javascript:
 ```javascript
 var p=23;
 alert("hahaha");
