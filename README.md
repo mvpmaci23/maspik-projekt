@@ -14,3 +14,13 @@ a Webtanár **oktatóvideója** alapján késszült ez a *formázott* szöveg.
 Webtanár: http://webtanar.hu
 
 [Webtanár honlapja](http://webtanar.hu)
+
+Ebben a sorban beillisztett `<b>kódkészlet</b>`van.
+
+```php
+$a=11;
+$b=5;
+
+echo $a+$b;
+
+```
