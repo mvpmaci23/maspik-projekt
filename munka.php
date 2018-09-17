@@ -69,7 +69,7 @@ $nagy=23;
 
  print ($egyik/$masik)."<br><br>";
 
-  saját gépen frissítve most mi van
+  //saját gépen frissítve most mi van
 
 
 
